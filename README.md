@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hi I'm Kasturi 👋
 
 <!--
 **kasturic02/kasturic02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in Deloitte Consulting as a Digital Transformation specialist. I have 7.5 years of experience in product development, business analysis, and CRM platforms, with deep expertise in the Salesforce ecosystem. I have a proven track record in defining product strategy, driving roadmaps, and delivering measurable business outcomes through Agile, Scrum, and iterative development. Skilled in OKRs, Design Thinking, prototyping, and backlog refinement to prioritize features and enhance user satisfaction. Adept at collaborating with cross-functional teams and stakeholders, lead complete product development lifecycle and track post-launch product performance. Well versed with supporting project management tools like Azure Dev Ops and wireframing tools like Miro, AI prototyping tool like Lovable.
+Actively engaged in recruitment and training of junior business analysts.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
